@@ -1,7 +1,11 @@
 # CARTE Education Pathways
 
 Kieun Joshua Park
+
 Note: This repo is a clone of https://github.com/nelaturuk/education_pathways.
+
+## Activity 1 screenshot
+![Alt text](https://github.com/kjoshuapark/ECE444-F2021-Lab5/blob/main/screenshots/Screen%20Shot%202021-10-13%20at%2011.20.05%20PM.png)
 
 ## Description
 Welcome to CARTE's in-development tool for course selection at UofT. Education Pathways allows for more intelligent course searching, by matching not just the terms you search, but ones relevant to them. The more terms you search for, the more relevant your results will be! Even try searching across disciplines for the courses that best cover each.
